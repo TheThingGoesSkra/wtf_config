@@ -1,0 +1,17 @@
+items:
+- checked: false
+  checkedicon: X
+  text: SSLSTRIP
+  uncheckedicon: ' '
+- checked: false
+  checkedicon: X
+  text: EBIOS
+  uncheckedicon: ' '
+- checked: false
+  checkedicon: X
+  text: English
+  uncheckedicon: ' '
+- checked: false
+  checkedicon: X
+  text: MALWARE
+  uncheckedicon: ' '
